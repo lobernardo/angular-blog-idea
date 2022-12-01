@@ -12,7 +12,7 @@
 }
 
 .big-card__title h1{
-    font-size: 2rem;
+    font-size: 1.76rem;
     margin-top: 1.1rem;
 }
 
@@ -25,7 +25,7 @@
     font-size: 1rem;
     position: absolute;
     left: 0;
-    top:21rem;
+    top:20rem;
 }
 
 .big-card__image img{
